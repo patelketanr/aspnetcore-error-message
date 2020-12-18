@@ -1,0 +1,5 @@
+.dtbcache.v2
+applicationhost.config
+*.suo
+obj
+bin
